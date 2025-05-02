@@ -50,4 +50,4 @@ Follow the steps below to set up and run the project locally:
    php artisan storage:link
 
 5. Start the development server:
-   php artisan serve
+   composer run dev
